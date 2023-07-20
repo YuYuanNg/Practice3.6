@@ -1,1 +1,1 @@
-# Practice3.6
+# serverless-app-3.6
